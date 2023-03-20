@@ -255,3 +255,28 @@ Changing user behavior: As people increasingly rely on social media to keep trac
 Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like My Birthday Reminder.<br>
 
 ## 10. Family Shared Calendar: FamCal
+
+###  Strengths:
+
+FamCal offers a centralized platform for families to manage their events and schedules in one place.<br>
+It can send reminders for birthdays, anniversaries, and other special occasions, helping users remember important dates.<br>
+FamCal allows users to assign tasks and to-dos to specific family members, which can improve accountability and organization.<br>
+The app is user-friendly, with an intuitive interface and straightforward functionality.<br>
+
+###  Weaknesses:
+
+FamCal is limited to only serving as a calendar app and may not offer as many features as other, more comprehensive family management apps.<br>
+The app relies on user input, so if users do not regularly update their calendars, reminders may be missed.<br>
+Some users may prefer more customizable options, such as the ability to change the app's color scheme or add personalized images.<br>
+
+###  Opportunities:
+
+FamCal can explore opportunities for integration with other family management apps, such as meal planning or budgeting tools.<br>
+The app can potentially expand its features beyond just reminders, to include functions like group messaging or file-sharing.<br>
+FamCal can explore ways to incorporate social media integrations or other tools that could make the app more engaging and interactive.<br>
+
+###  Threats:
+
+There are already a number of competing calendar and family management apps on the market, which could limit FamCal's potential user base.<br>
+Users may opt for more established apps that have a longer track record of success and a wider range of features.<br>
+Changes in technology or market trends could make FamCal obsolete or less relevant over time. <br>
