@@ -15,3 +15,15 @@
 
 ### How to Submit
 #### Submit a read-only Figma project.
+
+
+## Step 1
+#### Conduct a SWOT Analysis of our competitors to find out the possible improvements to implement in our app
+
+## Step 2
+#### Conduct user research on the improvemnts we targeted from our competitors SWOT Analysis
+
+## Step 3
+#### Come up with a user persona
+
+
