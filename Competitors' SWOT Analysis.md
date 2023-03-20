@@ -118,3 +118,57 @@ Changing user behavior: As people increasingly rely on social media to keep trac
 Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like Birdays.<br>
 
 
+## 5. To Do Reminder with Alarm
+
+###  Strengths:
+
+Customization: To Do Reminder with Alarm allows users to set reminders and notifications according to their preferences, offering a high level of customization.<br>
+User-friendly: The app has a simple interface that is easy to use and understand, making it accessible to people of all ages.<br>
+Syncing: The app can be synced with the user's phone calendar and contacts, making it easier to keep track of important dates.<br>
+Reminders: To Do Reminder with Alarm sends timely reminders to users, ensuring that they don't forget important birthdays.<br>
+Versatile: The app can be used to set reminders for a variety of tasks, not just birthdays, making it a versatile productivity tool.<br>
+
+###  Weaknesses:
+
+Limited features: To Do Reminder with Alarm may lack some advanced features that users may want in a reminder app.<br>
+Ads: The free version of the app contains ads, which can be intrusive and may negatively impact the user experience.<br>
+Data privacy: The app requires access to the user's contacts and calendar, which may raise privacy concerns for some users.<br>
+
+###  Opportunities:
+
+Integration: To Do Reminder with Alarm could integrate with other apps or services, such as social media platforms or e-commerce sites, to offer users more personalized and contextual reminders.<br>
+Monetization: The app could offer additional features or a premium subscription to generate revenue and improve the user experience.<br>
+Localization: To Do Reminder with Alarm could expand its reach by offering support for additional languages and cultures.<br>
+
+###  Threats:
+
+Competition: To Do Reminder with Alarm faces stiff competition from other reminder apps, such as Any.do, Wunderlist, and Google Keep, which offer similar functionality.<br>
+Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone reminder apps like To Do Reminder with Alarm.<br>
+Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like To Do Reminder with Alarm.<br>
+
+## 6. Contacts’ Birthdays 
+
+###  Strengths:
+
+Easy to use: Contacts' Birthdays is integrated into the user's contacts app, making it easy to access and use.<br>
+No additional app required: Since Contacts' Birthdays is integrated into the contacts app, users don't need to download a separate app to keep track of birthdays.<br>
+Automatic syncing: The app automatically syncs with the user's contacts, ensuring that all birthdays are up-to-date.<br>
+No ads: Since the app is integrated into the contacts app, there are no ads to interrupt the user experience.<br>
+Data privacy: The app doesn't require any additional permissions or access to the user's contacts or calendar, ensuring data privacy.<br>
+###  Weaknesses:
+
+Limited features: Contacts' Birthdays has limited functionality, which may not be sufficient for users looking for more advanced features.<br>
+No reminders: The app doesn't offer reminders or notifications, so users may need to manually check the contacts app to keep track of birthdays.<br>
+Only for iOS users: Contacts' Birthdays is only available for iOS users, limiting its reach.<br>
+###  Opportunities:
+
+Integration: Contacts' Birthdays could potentially integrate with other apps or services, such as social media platforms or e-commerce sites, to offer users more personalized and contextual reminders.<br>
+Localization: The app could expand its reach by offering support for additional languages and cultures.<br>
+Monetization: The app could offer additional features or a premium subscription to generate revenue and improve the user experience.<br>
+
+###  Threats:
+
+Competition: Contacts' Birthdays faces stiff competition from other birthday reminder apps, such as Birdays, To Do Reminder with Alarm, and Birthday Calendar, which offer more advanced functionality.<br>
+Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone reminder apps like Contacts' Birthdays.<br>
+Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like Contacts' Birthdays.<br>
+
