@@ -19,6 +19,8 @@
 
 ## Step 1
 #### Conduct a SWOT Analysis of our competitors to find out the possible improvements to implement in our app
+https://github.com/TrizahNabwire/BirthdayReminderApp/blob/main/Competitors'%20SWOT%20Analysis.md
+
 
 ## Step 2
 #### Conduct user research on the improvemnts we targeted from our competitors SWOT Analysis
