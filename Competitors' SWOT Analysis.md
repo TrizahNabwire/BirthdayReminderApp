@@ -199,3 +199,59 @@ Localization: The app could expand its reach by offering support for additional 
 Competition: Birthday Countdown faces stiff competition from other reminder apps, such as Birdays, To Do Reminder with Alarm, and Contacts' Birthdays, which offer more advanced functionality.<br>
 Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone reminder apps like Birthday Countdown.<br>
 Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like Birthday Countdown.<br>
+
+## 8. Birthday Calendar Reminder
+
+###  Strengths:
+
+Automatic syncing: Birthday Calendar Reminder automatically syncs with the user's contacts and calendar, ensuring that all birthdays are up-to-date.<br>
+Reminder notifications: The app sends timely reminder notifications to users, ensuring that they don't forget important birthdays.<br>
+Personalization: The app offers various customization options, such as notification sounds and reminder frequency, allowing users to personalize the app to their liking.<br>
+No ads: The app is ad-free, ensuring a smooth user experience.<br>
+Multi-platform support: Birthday Calendar Reminder is available for both iOS and Android users, expanding its reach.<br>
+
+###  Weaknesses:
+
+Limited features: Birthday Calendar Reminder has limited functionality, which may not be sufficient for users looking for more advanced features.<br>
+No social media integration: Unlike some other reminder apps, Birthday Calendar Reminder doesn't offer social media integration for sharing birthday greetings.<br>
+No countdown timer: The app doesn't offer a countdown timer or personalized messages, which some users may prefer.<br>
+###  Opportunities:
+
+Integration: Birthday Calendar Reminder could potentially integrate with other apps or services, such as social media platforms or e-commerce sites, to offer users more personalized and contextual reminders.<br>
+Monetization: The app could offer additional features or a premium subscription to generate revenue and improve the user experience.<br>
+Localization: The app could expand its reach by offering support for additional languages and cultures.<br>
+
+###  Threats:
+
+Competition: Birthday Calendar Reminder faces stiff competition from other reminder apps, such as Birdays, To Do Reminder with Alarm, and Contacts' Birthdays, which offer more advanced functionality.<br>
+Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone reminder apps like Birthday Calendar Reminder.<br>
+Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like Birthday Calendar Reminder.<br>
+
+## 9. My Birthday Reminder
+
+###  Strengths:
+
+Easy to use: My Birthday Reminder has a simple and user-friendly interface, making it easy for users to set up and use the app.<br>
+Personalization: The app offers various customization options, such as notification sounds and reminder frequency, allowing users to personalize the app to their liking.<br>
+Reminder notifications: The app sends timely reminder notifications to users, ensuring that they don't forget important birthdays.<br>
+No ads: The app is ad-free, ensuring a smooth user experience.<br>
+Multi-platform support: My Birthday Reminder is available for both iOS and Android users, expanding its reach.<br>
+###  Weaknesses:
+
+Limited features: My Birthday Reminder has limited functionality, which may not be sufficient for users looking for more advanced features.<br>
+No social media integration: Unlike some other reminder apps, My Birthday Reminder doesn't offer social media integration for sharing birthday greetings.<br>
+No countdown timer: The app doesn't offer a countdown timer or personalized messages, which some users may prefer.<br>
+
+###  Opportunities:
+
+Integration: My Birthday Reminder could potentially integrate with other apps or services, such as social media platforms or e-commerce sites, to offer users more personalized and contextual reminders.<br>
+Monetization: The app could offer additional features or a premium subscription to generate revenue and improve the user experience.<br>
+Localization: The app could expand its reach by offering support for additional languages and cultures.<br>
+
+###  Threats:
+
+Competition: My Birthday Reminder faces stiff competition from other reminder apps, such as Birdays, To Do Reminder with Alarm, and Contacts' Birthdays, which offer more advanced functionality.<br>
+Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone reminder apps like My Birthday Reminder.<br>
+Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like My Birthday Reminder.<br>
+
+## 10. Family Shared Calendar: FamCal
