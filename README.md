@@ -28,5 +28,6 @@ https://github.com/TrizahNabwire/BirthdayReminderApp/blob/main/User%20Interview%
 
 ## Step 3
 #### Come up with a user persona
+https://github.com/TrizahNabwire/BirthdayReminderApp/blob/main/User%20Persona.md
 
 
