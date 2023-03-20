@@ -58,7 +58,7 @@ Risk of users becoming overwhelmed with notifications and reminders, leading to 
 Increasing concerns around privacy and data protection could lead to decreased user trust in the platform.<br>
 
 
-## Birthdays for Android
+## 3. Birthdays for Android
 
 ###  Strengths:
 
@@ -88,3 +88,33 @@ Option for users to connect with social media accounts to add birthdays of frien
 Competition from other dedicated birthday reminder apps with more robust features<br>
 Risk of users becoming overwhelmed with notifications and reminders, leading to the app being ignored or deleted<br>
 May struggle to gain traction and compete with larger, more established apps in the market.<br>
+
+## 4. Birdays
+
+###  Strengths:
+
+User-friendly: Birdays is easy to use and has a simple interface, which makes it accessible to people of all ages.<br>
+Customization: The app offers a high level of customization to users, allowing them to set reminders and notifications according to their preferences.<br>
+Syncing: Birdays can be synced with the user's phone calendar and contacts, making it easier to keep track of important dates.<br>
+Reminders: The app sends timely reminders to users, ensuring that they don't forget important birthdays.<br>
+Cross-platform: Birdays is available for both Android and iOS devices, making it accessible to a wider range of users.<br>
+
+###  Weaknesses:
+
+Limited features: Birdays has a limited feature set, which may not be sufficient for users looking for more advanced functionality.<br>
+Ads: The free version of Birdays contains ads, which can be intrusive and may negatively impact the user experience.<br>
+Data privacy: The app requires access to the user's contacts and calendar, which may raise privacy concerns for some users.<br>
+
+###  Opportunities:
+
+Integration: Birdays could integrate with other apps or services, such as social media platforms or e-commerce sites, to offer users more personalized and contextual reminders.<br>
+Monetization: The app could offer additional features or a premium subscription to generate revenue and improve the user experience.<br>
+Localization: Birdays could expand its reach by offering support for additional languages and cultures.<br>
+
+###  Threats:
+
+Competition: Birdays faces stiff competition from other birthday reminder apps, such as Birthday Calendar, Birthdays for Android, and Reminder App, which offer similar functionality.<br>
+Changing user behavior: As people increasingly rely on social media to keep track of birthdays, they may be less likely to use standalone birthday reminder apps.<br>
+Technological advancements: The emergence of new technologies, such as voice assistants and smartwatches, could potentially replace the need for dedicated reminder apps like Birdays.<br>
+
+
