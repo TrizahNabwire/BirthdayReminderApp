@@ -24,6 +24,7 @@ https://github.com/TrizahNabwire/BirthdayReminderApp/blob/main/Competitors'%20SW
 
 ## Step 2
 #### Conduct user research on the improvemnts we targeted from our competitors SWOT Analysis
+https://github.com/TrizahNabwire/BirthdayReminderApp/blob/main/User%20Interview%20Questions.md
 
 ## Step 3
 #### Come up with a user persona
