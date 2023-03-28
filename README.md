@@ -19,7 +19,10 @@ Submission
 #### Other screens that influenced the page that was required
 ![BirthYAY](https://user-images.githubusercontent.com/99127888/228219647-7c8fbb50-229e-42ed-99b8-65dcabf848cd.png)
 
+![BirthYAY (1)](https://user-images.githubusercontent.com/99127888/228220044-35499a4f-2792-4f21-ba37-1e6e347b72e3.png)
 
+
+NEXT STEP: A COMPLETE BIRTHDAY REMINDER APP
 
 ## Step 1
 #### Conduct a SWOT Analysis of our competitors to find out the possible improvements to implement in our app
