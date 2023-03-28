@@ -280,5 +280,9 @@ FamCal can explore ways to incorporate social media integrations or other tools 
 There are already a number of competing calendar and family management apps on the market, which could limit FamCal's potential user base.<br>
 Users may opt for more established apps that have a longer track record of success and a wider range of features.<br>
 Changes in technology or market trends could make FamCal obsolete or less relevant over time. <br>
+[SWOT Analysis for each of our Competitors.pdf](https://github.com/TrizahNabwire/BirthdayReminderApp/files/11089794/SWOT.Analysis.for.each.of.our.Competitors.pdf)
+![SWOT Analysis for each of our Competitors](https://user-images.githubusercontent.com/99127888/228249291-30478dd0-0a03-4409-b063-91cf0ff34226.jpg)
+
+
 
 ### Birthday Apps https://techsamaritan.com/best-birthday-reminder-apps-for-android/
