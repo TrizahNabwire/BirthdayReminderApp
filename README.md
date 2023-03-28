@@ -17,11 +17,10 @@ Submission
 ![Details](https://user-images.githubusercontent.com/99127888/228219180-0580b101-4436-4ccd-8abf-d5bef7ee0218.png)
 
 #### Other screens that influenced the page that was required
-![BirthYAY](https://user-images.githubusercontent.com/99127888/228219647-7c8fbb50-229e-42ed-99b8-65dcabf848cd.png)
 
 ![BirthYAY (1)](https://user-images.githubusercontent.com/99127888/228220044-35499a4f-2792-4f21-ba37-1e6e347b72e3.png)
 
-
+Next to Level 2 of PDSL
 NEXT STEP: A COMPLETE BIRTHDAY REMINDER APP
 
 ## Step 1
