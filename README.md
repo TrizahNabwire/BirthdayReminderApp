@@ -13,8 +13,12 @@
 ### Submission Deadline 
 #### Friday, March 24th at 11:30 PM WAT
 
-### How to Submit
-#### Submit a read-only Figma project.
+Submission
+![Details](https://user-images.githubusercontent.com/99127888/228219180-0580b101-4436-4ccd-8abf-d5bef7ee0218.png)
+
+#### Other screens that influenced the page that was required
+![BirthYAY](https://user-images.githubusercontent.com/99127888/228219647-7c8fbb50-229e-42ed-99b8-65dcabf848cd.png)
+
 
 
 ## Step 1
